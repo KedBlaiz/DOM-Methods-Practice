@@ -4,8 +4,8 @@ const buttonInfo = document.createTextNode('REMOVE')
 const mainElement = document.createElement('main')
 const img = document.createElement('img')
 
-bodyElement.append(mainElement)
 bodyElement.append(button)
+bodyElement.append(mainElement)
 button.append(buttonInfo)
 mainElement.append(img)
 img.src = 'https://www.designnews.com/sites/default/files/Design%20News/P90301922_highRes_bmw-i8-roadster-04-2.jpg' 
