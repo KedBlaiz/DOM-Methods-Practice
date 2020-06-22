@@ -1,0 +1,14 @@
+body {
+    padding: 20px;
+  }
+  button {
+    margin-top: 15px;
+    line-height: 20px;
+    font-weight: bold;
+    padding: 0 40px;
+    background: grey;
+    border: light black;
+  }
+  button:hover {
+    background: lightgray;
+  }
